@@ -1,0 +1,1 @@
+This release contains information on real disposable personal income, which means money that households are able to spend after all taxes have been paid. It is measured in billions of dollars and is chained to 2012, which means that the data adjusts for inflation over time using 2012 as the base year.
